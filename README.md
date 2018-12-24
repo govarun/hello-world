@@ -1,4 +1,6 @@
 # hello-world
 Discuss ideas, give valuable inputs.
 Hello my name is Varun, I am a first year CSE undergrad at IIT Kanpur.
-Connect to me over facebook: https://www.facebook.com/varungoyal23                                             
+You can connect with me:
+Facebook: https://www.facebook.com/varungoyal23
+LinkedIn: https://www.linkedin.com/in/varungoyal23/
