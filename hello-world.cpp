@@ -3,7 +3,10 @@
 using namespace std;
 
 int main(){
-cout<<"Hello";
-printf("World");
-cout<<"Is the order reversed ?";
+    ios::sync_with_stdio(0); 
+    cin.tie(0); cout.tie(0);
+    
+    cout<<"Hello ";
+    printf("World \n");
+    // cout<<"Is the order reversed ? Why isn't it";
 }
